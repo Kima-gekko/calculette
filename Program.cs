@@ -26,6 +26,7 @@ namespace ConsoleApp2
                 case '+':resultat = c2 + c1;break;
                 case '/': resultat = c1 / c2; break;
                 case '*': resultat = c2 * c1; break;
+                case '%': resultat = c2 % c1; break;
             }
 
            
